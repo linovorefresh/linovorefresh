@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greetings! 😬
+### Linovo here ♥️ 💻 🛠️ 📱
 
 <!--
 **linovorefresh/linovorefresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I design and develop Web Apps, Mobile Apps, Cloud Solutions, and Teach. While I love learning all sorts of frameworks and languages 🤓, I really enjoy React and Nest Js. I can spend hours learning and teaching cloud-based technologies like Docker, AWS, Terraform, SnowFlake, etc. 🌥 🐳 ❄️. I'm decorated with a B.S in CS, AWS Solution Architect, Cloud Practitioner, CompTIA Network+, and HashiCorp Terraform Associate. I Freelance Consult and maintain FTE. 
